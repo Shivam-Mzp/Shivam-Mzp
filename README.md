@@ -37,7 +37,7 @@
  <a href="https://medium.com/@shivamsingh4458">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px"  />
   </a>
-  <a href="https://www.linkedin.com/in/shivam-singh-05050a1a0/">
+  <a href="https://www.linkedin.com/in/shivam-/">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
   </a>
   <a href="https://leetcode.com/shivam-singh-au17/">
