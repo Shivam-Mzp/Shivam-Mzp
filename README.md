@@ -1,13 +1,13 @@
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
-<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shivam Singh </h1>
+<h1 align="left" >Hey there <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/Hi.gif?raw=true" width="30" />, I'm Shivam Singh </h1>
 
 <h4><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
 <h3><i>Happy Coding!</i> 😊</h3>
 <hr>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***About me ....***
 
 - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 - 🤔 I use daily ```.js```,``` .py```, ```.html```
@@ -23,8 +23,8 @@
 
  <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....*** 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+<img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***Connect with me ....*** 
+<img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/handshake.gif?raw=true" width="70" />
 
 
 <p>
@@ -37,7 +37,7 @@
  <a href="https://medium.com/@shivamsingh4458">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px"  />
   </a>
-  <a href="https://www.linkedin.com/in/shivam-/">
+  <a href="https://www.linkedin.com/in/shivam-singh-05050a1a0/">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
   </a>
   <a href="https://leetcode.com/shivam-singh-au17/">
@@ -47,11 +47,12 @@
 
 <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 
+
 <br>
 <br>
 
  <hr>
- <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
+ <h4><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;My working tools..</h4>
 <p >
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -70,6 +71,45 @@
  <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=0c154d&logo=GitHub&logoColor=white" />&nbsp;&nbsp;                      
 </p>
 <hr>
+
+
+<h4 align="center"><img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{shivam-singh-au17}/count.svg" alt="shivam-singh-au17 :: Visitor's Count" /></p>
+
+<hr>
+
+ <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+
+<p align="left">
+<img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
+</p>
+
+<p align="left" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=chartreuse-dark"  />
+</p>
+ 
+<p>
+<a href="https://github.com/shivam-singh-au17"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-singh-au17&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+</span></a> </p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<hr clear="both">
+ <br/>
+<p align="center">
+<a href="https://github.com/shivam-singh-au17"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-singh-au17&theme=dracula" />
+</span></a> </p>
+
+ <br/>
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivam-singh-au17&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
+
+<hr clear="both">
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
 
